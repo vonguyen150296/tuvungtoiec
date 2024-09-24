@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "384863711481",
+    "firebase_url": "https://tuvungtoeic-7f0e2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tuvungtoeic-7f0e2",
+    "storage_bucket": "tuvungtoeic-7f0e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384863711481:android:d3a5680af132e5ea84f228",
+        "android_client_info": {
+          "package_name": "com.eagle_vnqt.tuvungtoeic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPeybq7m7WlbItVIOBMWcH0H0PRyU1vMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
